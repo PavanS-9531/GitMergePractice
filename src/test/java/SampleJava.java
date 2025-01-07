@@ -5,6 +5,7 @@ public class SampleJava {
 		// TODO Auto-generated method stub
 		//new project
 		System.out.println("New project");
+		System.out.println("Pull request");
 
 	}
 
